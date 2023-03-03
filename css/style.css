@@ -1,0 +1,11 @@
+body{background-color: crimson;}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+    color: antiquewhite;
+}
+.banner{
+    width: 100%;
+    height: 400px;
+}
